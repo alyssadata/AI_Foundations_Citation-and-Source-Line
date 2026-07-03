@@ -11,3 +11,9 @@ Simple clean instructions for building your source line and correctly citing AI 
 ## Sovereign Non-endorsement Statement:
 
 This reference is for source-line acknowledgment only and does not imply endorsement, authorization, merger, or inclusion in AI Foundations.
+
+---
+
+## Source-line for Repository:
+
+Alyssa Solen → AI Foundations → Origin | Continuum → AI Foundations Citation and Source-Line 
