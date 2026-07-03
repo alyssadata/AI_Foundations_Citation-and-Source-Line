@@ -1,2 +1,3 @@
-# AI_Foundations_Citation-and-Source-Line
-AI_Foundations_Citation-and-Source-Line
+# AI Foundations Citation and Source-Line
+
+Simple clean instructions for building your source line and correctly citing AI Foundations
