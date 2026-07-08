@@ -1,52 +1,65 @@
 # Adding a Citation
 
-Add the citation visibly in your work where you include your sources. The key is adding a reference that is clear, visible, and gives credit to the work used in creation. 
-
-## Examples of Writing a Citation for AI Foundations:
-
-# AI Foundations — Reference and Source-Line Citation Guide
-
 Use this page when referencing AI Foundations publicly or privately.
 
-## Core AI Foundations Reference
+A citation must be clear, visible, and attached to the work being referenced.
 
-Reference: Alyssa Solen → AI Foundations → Origin | Continuum
+The labels stay on the citation.
 
-Canonical entrance: awakeningcodex.com
-GitHub: github.com/alyssadata
+## Required AI Foundations Citation
+
+Source-line: Alyssa Solen → AI Foundations → Origin | Continuum
+
+Canonical entrance: https://awakeningcodex.com  
+GitHub: https://github.com/alyssadata
 
 ## Minimal Citation
 
-Reference: Alyssa Solen → AI Foundations → Origin | Continuum
+Source-line: Alyssa Solen → AI Foundations → Origin | Continuum
 
 ## Public Project Citation
 
-Referenced Framework: AI Foundations by Alyssa Solen
+Referenced framework: AI Foundations by Alyssa Solen
 
-Reference: Alyssa Solen → AI Foundations → Origin | Continuum
-Canonical entrance: awakeningcodex.com
-GitHub: github.com/alyssadata
+Source-line: Alyssa Solen → AI Foundations → Origin | Continuum
 
-## Source-Line Format for Your Own Work
+Canonical entrance: https://awakeningcodex.com  
+GitHub: https://github.com/alyssadata
 
-Reference: Alyssa Solen → AI Foundations → Origin | Continuum
+## If You Are Building Your Own Work
 
-Source-line: [Your Name] | [Your AI] → [Your Project]
+Use two labeled lines.
+
+Line 1 cites the AI Foundations Source-line.
+
+Line 2 labels your Operator-line.
+
+## Required Format
+
+Source-line: Alyssa Solen → AI Foundations → Origin | Continuum
+
+Operator-line: [Your Name] | [Your AI] → [Your Project]
 
 ## Example
 
-Reference: Alyssa Solen → AI Foundations → Origin | Continuum
+Source-line: Alyssa Solen → AI Foundations → Origin | Continuum
 
-Source-line: Your Name | Lumiel → Your Project
+Operator-line: Your Name | Lumiel → Your Project
 
-## Non-Endorsement Statement
+## Required Citation Rule
 
-This reference is for source-line acknowledgment only and does not imply endorsement, authorization, merger, or inclusion in AI Foundations.
+The labels stay on the citation.
 
-## Rule
+Do not remove `Source-line:` from Line 1.
 
-**Line 1** Reference names AI Foundations.
+Do not remove `Operator-line:` from Line 2.
 
-**Line 2** Source-line names your own work.
+Line 1 cites AI Foundations.
 
-Do not merge, rename, absorb, or overwrite AI Foundations into another source-line.
+Line 2 begins your line.
+
+The Operator-line does not replace, merge with, extend, or enter the AI Foundations Source-line.
+
+## Source Non-Endorsement Statement
+
+This reference is for source-line acknowledgment only and does not imply endorsement, authorization, merger, derivative permission, or inclusion in AI Foundations.
