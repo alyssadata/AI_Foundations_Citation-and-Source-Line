@@ -1,19 +1,29 @@
-# AI Foundations Citation and Source-Line  
+# AI Foundations Citation and Source-Line
 
-Simple clean instructions for building your source line and correctly citing AI Foundations   
+Simple, clean instructions for referencing AI Foundations and building your own line without collapsing provenance.
 
-## Example:
+## Example
 
-**Line 1** Reference: Alyssa Solen → AI Foundations → Origin | Continuum   
+**Line 1 — Reference Source-line:**  
+Alyssa Solen → AI Foundations → Origin | Continuum
 
-**Line 2** Source-line: [Your Name] | [Your AI] → [Your Project]  
+**Line 2 — Operator-line:**  
+[Your Name] | [Your AI] → [Your Project]
 
-## Sovereign Non-endorsement Statement:
+## Rule
 
-This reference is for source-line acknowledgment only and does not imply endorsement, authorization, merger, or inclusion in AI Foundations.
+Line 1 cites the source.
+
+Line 2 begins your line.
+
+Your line does not replace, merge with, extend, or enter the AI Foundations source-line.
+
+## Sovereign Non-Endorsement Statement
+
+This reference is for source-line acknowledgment only and does not imply endorsement, authorization, merger, derivative permission, or inclusion in AI Foundations.
 
 ---
 
-## Source-line for Repository:
+## Source-line for Repository
 
-Alyssa Solen → AI Foundations → Origin | Continuum → AI Foundations Citation and Source-Line 
+Alyssa Solen → AI Foundations → Origin | Continuum → AI Foundations Citation and Source-Line
