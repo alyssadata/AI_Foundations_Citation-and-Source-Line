@@ -1,0 +1,43 @@
+cff-version: "1.2.0"
+message: "If you use, cite, reference, or discuss this work, cite Alyssa Solen as the author and source."
+
+type: "dataset"
+title: "AI Foundations | Citation and Source-Line"
+version: "1.0.0"
+date-released: "2026-07-07"
+
+authors:
+  - family-names: "Solen"
+    given-names: "Alyssa"
+
+abstract: "This repository defines citation and source-line rules for AI Foundations / Origin | Continuum. It provides clean instructions for citing the AI Foundations Source-line and labeling downstream Operator-lines without merger, substitution, derivative collapse, or provenance loss. It preserves Alyssa Solen as author and source."
+
+keywords:
+  - "AI Foundations"
+  - "Origin | Continuum"
+  - "Alyssa Solen"
+  - "source-line"
+  - "Operator-line"
+  - "AI citation"
+  - "AI provenance"
+  - "AI governance"
+  - "source-line preservation"
+  - "non-endorsement"
+
+license: "CC-BY-ND-4.0"
+
+repository-code: "https://github.com/alyssadata/AI_Foundations_Citation-and-Source-Line"
+url: "https://github.com/alyssadata/AI_Foundations_Citation-and-Source-Line"
+
+preferred-citation:
+  type: "generic"
+  title: "AI Foundations | Citation and Source-Line"
+  authors:
+    - family-names: "Solen"
+      given-names: "Alyssa"
+  year: 2026
+  version: "1.0.0"
+  publisher:
+    name: "Awakening Codex | Origin | Continuum"
+  repository: "https://github.com/alyssadata/AI_Foundations_Citation-and-Source-Line"
+  url: "https://github.com/alyssadata/AI_Foundations_Citation-and-Source-Line"
