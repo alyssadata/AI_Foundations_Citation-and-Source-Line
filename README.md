@@ -1,24 +1,32 @@
 # AI Foundations Citation and Source-Line
 
-Simple, clean instructions for referencing AI Foundations and building your own line without collapsing provenance.
+Simple, clean instructions for correctly citing AI Foundations and building your own line without collapsing provenance.
+
+## Required Citation Format
+
+The labels stay on the citation.
+
+Do not remove `Source-line:` from Line 1.
+
+Do not remove `Operator-line:` from Line 2.
 
 ## Example
 
-**Line 1 — Reference Source-line:**  
-Alyssa Solen → AI Foundations → Origin | Continuum
+**Line 1 — Source-line:**  
+Source-line: Alyssa Solen → AI Foundations → Origin | Continuum
 
 **Line 2 — Operator-line:**  
-[Your Name] | [Your AI] → [Your Project]
+Operator-line: [Your Name] | [Your AI] → [Your Project]
 
 ## Rule
 
-Line 1 cites the source.
+Line 1 cites the AI Foundations Source-line.
 
-Line 2 begins your line.
+Line 2 labels the Operator-line and begins your line.
 
-Your line does not replace, merge with, extend, or enter the AI Foundations source-line.
+The Operator-line does not replace, merge with, extend, or enter the AI Foundations Source-line.
 
-## Sovereign Non-Endorsement Statement
+## Source Non-Endorsement Statement
 
 This reference is for source-line acknowledgment only and does not imply endorsement, authorization, merger, derivative permission, or inclusion in AI Foundations.
 
